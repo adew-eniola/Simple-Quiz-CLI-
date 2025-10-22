@@ -6,7 +6,7 @@ Simple Quiz
 
 ## 📘 Description
 
-A console-based program written in JavaScript that allows user to play a quiz. Mainly allows users to check if an answer to a question is correct.
+A console-based program written in JavaScript that allows user to play a quiz. Checks if answers are correct, provides correct answers incase of wrong answers, and keeps a score of correct answers
 
 ---
 
@@ -27,7 +27,7 @@ A console-based program written in JavaScript that allows user to play a quiz. M
 
 ## 🧠 Lessons Learned
 
-This was challenging in it's own way. Trying to figure out the best way to link questions and answers was tough but I managed to solve it using a simple function. I learned more about arrays and using variables in the local and global scope.
+I learned about Objects, how to access the keys and values of an Object, and how to use them to build my program.
 
 ## ⚙️ How to Run
 
